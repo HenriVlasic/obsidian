@@ -1,15 +1,7 @@
-# Generated website directory
-_site/
-
-# Sass cache
-.sass-cache/
-
-# Jekyll cache & metadata
-.jekyll-cache/
-.jekyll-metadata
-
-# Notes graph metadata
-_includes/notes_graph.json
-
-# Obsidian config
-.obsidian/
+node_modules
+dist
+netlify/functions/search/data.json
+netlify/functions/search/index.json
+# Local Netlify folder
+.netlify
+.idea/
